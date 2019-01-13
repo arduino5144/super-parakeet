@@ -1,2 +1,2 @@
-#Welcome to my chat app!
+# Welcome to my chat app!
 It is full of features!
